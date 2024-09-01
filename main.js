@@ -4,33 +4,27 @@ const screen2 = document.querySelector(".screen2")
 const btnReset = document.querySelector("button")
 
 const fortunePhrases = [
-  'A felicidade é encontrada dentro de si mesmo.',
+  'I admire youu so muchhh🩵',
 
-  'Você é a única pessoa que pode limitar seu próprio potencial.',
+  'youre really doing great',
 
-  'Seja a mudança que você deseja ver no mundo.',
+  'tomorrow will be happiest day ever',
 
-  'A vida é uma aventura, então aproveite a jornada.',
+  'youre so cuteee🥺sachii',
 
-  'Acredite em si mesmo e em suas habilidades.',
+  'skrr ko churaa lunga kal',
 
-  'Não tenha medo de experimentar coisas novas.',
+  'dance krke dikhaa',
 
-  'A vida pode ser imprevisível, mas é importante seguir em frente com confiança.',
+  'never give up',
 
-  'Lembre-se de que você é capaz de fazer grandes coisas.',
+  'would you like to grab some coffee with me🐺fill krdo https://forms.gle/mamWPif6Uq8tKRuM7',
 
-  'O fracasso é um ponto de partida, não um ponto final.',
+  'If you were a vegetable, you’d be a cute-cumber.',
 
-  'Lembre-se de que você é único e especial.',
+  'I must be a snowflake because I’ve fallen for you',
 
-  'Às vezes, é preciso se afastar do caos do mundo para encontrar a paz interior.',
-
-  'A vida é uma maratona, não uma corrida de velocidade.',
-
-  'Às vezes, a chave para a felicidade está em encontrar a beleza nas coisas simples.',
-
-  'Acredite em si mesmo e na sua capacidade de superar desafios.'
+  'allu ka murder',
 ]
 
 let item = 0
