@@ -36,7 +36,7 @@ main {
 }
 #peeking-cat {
   position: absolute;
-  top: 30%;
+  top: 60%;
   left: 10%;
   transform: translate(-50%, -100%);
   width: 150px; /* Adjust the width as needed */
@@ -44,26 +44,26 @@ main {
 }
 #peeking-cat1 {
   position: absolute;
-  top: 80%;
+  top: 50%;
   left: 60%;
   transform: translate(-50%, -100%);
-  width: 300px; /* Adjust the width as needed */
+  width: 500px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
 }
 #peeking-cat2 {
   position: absolute;
-  top: 30%;
+  top: 50%;
   left: 80%;
   transform: translate(-50%, -100%);
-  width: 300px; /* Adjust the width as needed */
+  width: 500px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
 }
 #peeking-cat3 {
   position: absolute;
-  top: 30%;
+  top: 50%;
   left: 100%;
   transform: translate(-50%, -100%);
-  width: 300px; /* Adjust the width as needed */
+  width: 500px; /* Adjust the width as needed */
   z-index: 20; /* Make sure it's above the container */
 }
 
@@ -105,7 +105,7 @@ h1, h2 {
 /*screen2*/
 
 .fortune {
-  width: 50px;
+  width: 60px;
   background: #FBF6F2;
   box-shadow: 2px 2px 2px rgba(85, 85, 85, 0.5);
   padding: 1rem;
@@ -116,10 +116,10 @@ h1, h2 {
 }
 
 .fortune p {
-  width: 50px;
+  width: 60px;
   font-family: 'DM Sans', sans-serif;
   font-weight: 50;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   line-height: 1rem;
   color: #000000;
 
