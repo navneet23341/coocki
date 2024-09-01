@@ -117,10 +117,10 @@ h1, h2 {
 
 .fortune p {
   width: 50px;
-  font-family: 'Dancing Script', sans-serif;
-  font-weight: 200;
-  font-size: 1.7rem;
-  line-height: 1.9rem;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 50;
+  font-size: 1.2rem;
+  line-height: 1rem;
   color: #000000;
 
   margin-bottom: 1.6rem;
