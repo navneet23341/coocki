@@ -10,7 +10,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(45deg, #EB5F43 0%, #f3804f 100%);
+  background: linear-gradient(45deg, #DDFCF7 0%, #79f5aa 100%);
   background-size: 200% 200%;
 
   display: grid;
@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  background: #FFFFFF;
+  background: #F48484;
   box-shadow: 0px 2rem 5rem rgba(0, 0, 0, 0.8);
   border-radius: .5rem;
   
@@ -44,7 +44,7 @@ main {
 }
 #peeking-cat1 {
   position: absolute;
-  top: 30%;
+  top: 80%;
   left: 60%;
   transform: translate(-50%, -100%);
   width: 300px; /* Adjust the width as needed */
@@ -93,7 +93,7 @@ h1, h2 {
 }
 
 .screen1 img {
-  width: 50px;
+  width: 60px;
   margin-bottom: 1.6rem;
   cursor: pointer;
 }
@@ -126,7 +126,7 @@ h1, h2 {
   margin-bottom: 1.6rem;
 }
 .screen2 img {
-  width: 50px;
+  width: 60px;
   margin-bottom: 1.6rem;
   cursor: pointer;
 }
@@ -153,7 +153,7 @@ button:hover {
 }
 
 .screen2 img {
-  width: 50px;
+  width: 60px;
   margin-bottom: 1.7rem;
 }
 
