@@ -40,14 +40,14 @@ main {
   left: 10%;
   transform: translate(-50%, -100%);
   width: 150px; /* Adjust the width as needed */
-  z-index: 10; /* Make sure it's above the container */
+  z-index: 0; /* Make sure it's above the container */
 }
 #peeking-cat1 {
   position: absolute;
   top: 200%;
   left: 30%;
   transform: translate(-50%, -100%);
-  width: 150px; /* Adjust the width as needed */
+  width: 300px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
 }
 #peeking-cat2 {
@@ -55,7 +55,7 @@ main {
   top: 30%;
   left: 40%;
   transform: translate(-50%, -100%);
-  width: 150px; /* Adjust the width as needed */
+  width: 300px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
 }
 #peeking-cat3 {
@@ -63,7 +63,7 @@ main {
   top: 30%;
   left: 60%;
   transform: translate(-50%, -100%);
-  width: 150px; /* Adjust the width as needed */
+  width: 300px; /* Adjust the width as needed */
   z-index: 20; /* Make sure it's above the container */
 }
 
