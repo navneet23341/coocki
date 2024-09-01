@@ -93,6 +93,7 @@ h1, h2 {
 }
 
 .screen1 img {
+  width: 50px;
   margin-bottom: 1.6rem;
   cursor: pointer;
 }
