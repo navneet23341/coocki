@@ -44,8 +44,8 @@ main {
 }
 #peeking-cat1 {
   position: absolute;
-  top: 200%;
-  left: 30%;
+  top: 30%;
+  left: 60%;
   transform: translate(-50%, -100%);
   width: 300px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
@@ -53,7 +53,7 @@ main {
 #peeking-cat2 {
   position: absolute;
   top: 30%;
-  left: 40%;
+  left: 80%;
   transform: translate(-50%, -100%);
   width: 300px; /* Adjust the width as needed */
   z-index: 10; /* Make sure it's above the container */
@@ -61,7 +61,7 @@ main {
 #peeking-cat3 {
   position: absolute;
   top: 30%;
-  left: 60%;
+  left: 100%;
   transform: translate(-50%, -100%);
   width: 300px; /* Adjust the width as needed */
   z-index: 20; /* Make sure it's above the container */
